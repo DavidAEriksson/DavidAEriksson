@@ -9,8 +9,8 @@ I'm a 5:th year master student in Interaction Technology & Design @ Umeå Univer
 
 #### Social links
 
-[<img align="left" alt="David Eriksson | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]<br>
-[<img align="left" alt="David Eriksson | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <br>
+[<img align="left" alt="David Eriksson | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="David Eriksson | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="David Eriksson | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
