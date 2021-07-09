@@ -2,10 +2,10 @@
 I'm a 5:th year master student in Interaction Technology & Design @ Umeå University 🏔️ 
 
 ### About me
-- 🖥️ Currently writing my master thesis at [Senseworks][senseworks] (spring semester 21)
+- 🖥️ Currently working back-end at [Senseworks][senseworks]
 - ⚙️ Full-stack developer & UX-designer 
 - 🏄‍♂️ Windsurfer & sailor
-- 📍 Stockholm/Umeå, Sweden 🇸🇪
+- 📍 Stockholm, Sweden 🇸🇪
 
 #### Social links
 
