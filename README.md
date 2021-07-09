@@ -1,5 +1,5 @@
 ### Hello there, my name is [David Eriksson][website] 🌊
-I'm a 5:th year master student in Interaction Technology & Design @ Umeå University 🏔️ 
+MSc in Interaction Technology & Design 
 
 ### About me
 - 🖥️ Currently working back-end at [Senseworks][senseworks]
