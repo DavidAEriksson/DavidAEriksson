@@ -2,7 +2,7 @@
 MSc in Interaction Technology & Design 
 
 ### About me
-- 🖥️ Currently working back-end at [Senseworks][senseworks]
+- 🖥️ Currently working fullstack at Valtech Sweden
 - ⚙️ Full-stack developer & UX-designer 
 - 🏄‍♂️ Windsurfer & sailor
 - 📍 Stockholm, Sweden 🇸🇪
