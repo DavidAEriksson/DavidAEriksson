@@ -4,7 +4,6 @@ MSc in Interaction Technology & Design
 ### About me
 - 🖥️ Currently working fullstack at Valtech Sweden
 - ⚙️ Full-stack developer & UX-designer 
-- 🏄‍♂️ Windsurfer & sailor
 - 📍 Stockholm, Sweden 🇸🇪
 
 #### Social links
