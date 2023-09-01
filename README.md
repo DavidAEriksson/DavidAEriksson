@@ -2,7 +2,7 @@
 MSc in Interaction Technology & Design 
 
 ### About me
-- 🖥️ Currently working fullstack at Valtech Sweden
+- 🖥️ Currently working fullstack at ChromaWay
 - ⚙️ Full-stack developer & UX-designer 
 - 📍 Stockholm, Sweden 🇸🇪
 
